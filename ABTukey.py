@@ -123,8 +123,8 @@ print(comparison.tukeyhsd(0.05))
 # Baktıgımızda 1 - 2 arasında anlamlı bir farklılık var
 # 2 - 3 arasındada anlamlı bir farklılık var
 # 1 - 3 arasında anlamlı bir farklılık yok (ortlamalar birbirinden farklı degil)
-# 2 ' nin ayrıştıgını görüyoruz ortalamalara baktıgımızda daha düşük kalıyor 2 yi eleyebiliriz. 1-3 baktıgımızda ortalamlar
-# birbirine yakın 1-3 arasında örneklendirmeyi artırarak  yine test edebiliriz .Veri attırılamıyorsa ortalamları yüksek
+# 2 ' nin ayrıştıgını görüyoruz ortalamalara baktıgımızda daha düşük kalıyor 2 yi eleyebiliriz. 1-3 baktıgımızda ortalamalar
+# birbirine yakın 1-3 arasında örneklendirmeyi artırarak  yine test edebiliriz .Veri attırılamıyorsa ortalamalardan yüksek
 # olan 1 'i seceriz.
 
 
